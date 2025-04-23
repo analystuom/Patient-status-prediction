@@ -1,4 +1,4 @@
-# Vertebral Column Classification: Machine Learning Approach
+# 🏥 Spinal Conditions Classification:
 
 ## Project Overview
 This project explores both unsupervised and supervised learning approaches to classify spinal conditions using the Vertebral Dataset. The dataset contains 310 observations with 6 biomechanical variables (features) and a binary target variable classifying patients as normal (NO) or abnormal (AB).
@@ -34,6 +34,3 @@ The project follows a comprehensive approach:
 
 ## Conclusions
 The study demonstrates the effectiveness of kernel-based methods for medical diagnostic classification problems with non-linear characteristics. The SVM model provides reliable predictions for spinal condition classification, with potential clinical applications in early diagnosis.
-
-## Future Work
-Future exploration could include Gaussian Mixture Models to better capture the elliptical shapes of clusters identified during unsupervised learning.
